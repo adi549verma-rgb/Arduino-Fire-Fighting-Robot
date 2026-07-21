@@ -98,7 +98,7 @@ Arduino-Fire-Fighting-Robot/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - ESP32 + Wi-Fi monitoring
 - IoT-based fire alerts
@@ -109,7 +109,7 @@ Arduino-Fire-Fighting-Robot/
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 - Arduino Source Code (`fire_fighting_robot.ino`)
 - Circuit Diagram
@@ -119,7 +119,7 @@ Arduino-Fire-Fighting-Robot/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aditya Verma**
 
@@ -129,4 +129,4 @@ Jawaharlal Nehru Government Engineering College (JNGEC), Sundernagar, Himachal P
 
 ---
 
-⭐ If you found this project useful, consider giving it a Star.
+ If you found this project useful, consider giving it a Star.
